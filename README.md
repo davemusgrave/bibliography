@@ -1,3 +1,6 @@
+## David Musgrave
+
+### Bibliography
 “Ancient Near Eastern Warfare: Religious Dimensions.” In Wars of Religion: An Encyclopedia of Faith and Conflict. ABC-CLIO.com. Forthcoming
 
 "Divine Kingship and War.” In Wars of Religion: An Encyclopedia of Faith and Conflict. ABC-CLIO.com. Forthcoming
