@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### Bibliography
 
-You can use the [editor on GitHub](https://github.com/davemusgrave/bibliography/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“Ancient Near Eastern Warfare: Religious Dimensions.” In Wars of Religion: An Encyclopedia of Faith and Conflict. ABC-CLIO.com. Forthcoming
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Divine Kingship and War.” In Wars of Religion: An Encyclopedia of Faith and Conflict. ABC-CLIO.com. Forthcoming
+"The Enclitic ah (Hebrew characters) in the Book of Jonah.” In Hebrew and Beyond: Studies in Honor of Dr. Rodney E. Cloud. Montgomery, AL: Amridge University Press, 2014. Forthcoming
 
-### Markdown
+Provisional Translation of a Cuneiform Tablet In the Bible Museum, Goodyear, AZ, January, 2014
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davemusgrave/bibliography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“'yeraeh el-elohim’ (Hebrew characters) In Psalm 84:8.” Restoration Quarterly 55:3 (Third Quarter 2013): 180-182
